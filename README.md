@@ -1,4 +1,4 @@
 comunicube
 ==========
 
-connecting cubes
+connecting cubes N' pipes
